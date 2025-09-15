@@ -4,10 +4,10 @@
     {
       "src": "apps/web-app/next.config.js",
       "use": "@vercel/next",
-      "config": { "distDir": "dist/apps/web-app/.next" }
+      "config": {
+        "distDir": "../../dist/apps/web-app/.next"
+      }
     }
   ],
-  "env": {
-    "HOSTNAME": "vercel"
-  }
+  "buildCommand": "npm run vercel-build"
 }
