@@ -4,7 +4,8 @@
   "license": "MIT",
   "scripts": {
     "web:dev": "nx run web-app:dev --turbopack",
-    "build": "nx run web-app:build"
+    "build": "nx run web-app:build",
+    "vercel-build": "npx nx build web-app"
   },
   "private": true,
   "dependencies": {
