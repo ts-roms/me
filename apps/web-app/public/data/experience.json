@@ -1,0 +1,20 @@
+[
+  {
+    "company": "TechCorp Inc.",
+    "role": "Senior Software Engineer",
+    "period": "2023 — Present",
+    "details": "Leading the development of scalable web applications with React, Next.js, and Node.js. Mentoring engineers and driving best practices."
+  },
+  {
+    "company": "Innovate Labs",
+    "role": "Full‑Stack Engineer",
+    "period": "2021 — 2023",
+    "details": "Built end‑to‑end product features across the stack. Focused on performance, accessibility, and DX improvements."
+  },
+  {
+    "company": "Startup XYZ",
+    "role": "Frontend Engineer",
+    "period": "2019 — 2021",
+    "details": "Shipped UI components and design systems with React, Tailwind, and Storybook; collaborated closely with design and product teams."
+  }
+]

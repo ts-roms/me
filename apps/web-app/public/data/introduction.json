@@ -1,0 +1,12 @@
+{
+  "heading": "Professional Introduction",
+  "paragraphs": [
+    "I’m Romario Cena, a Software Engineer focused on building reliable, performant, and delightful web experiences.",
+    "My work centers on modern React/Next.js frontends, accessible UI, and smooth product delivery with a strong attention to developer experience and maintainability."
+  ],
+  "highlights": [
+    "Core: TypeScript, React, Next.js, Node.js",
+    "UI: Tailwind CSS, shadcn/ui, Framer Motion",
+    "Focus: Performance, Accessibility, Clean Architecture"
+  ]
+}

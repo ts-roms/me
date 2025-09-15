@@ -9,5 +9,6 @@
     {
       "path": "./apps/web-app"
     }
-  ]
+  ],
+  "include": [".next/types/**/*.ts"]
 }

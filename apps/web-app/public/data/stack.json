@@ -1,0 +1,6 @@
+[
+  { "label": "Core", "items": ["TypeScript", "JavaScript", "Node.js"] },
+  { "label": "Frontend", "items": ["React", "Next.js", "Tailwind CSS", "shadcn/ui", "Framer Motion"] },
+  { "label": "Backend & APIs", "items": ["Express", "tRPC/REST", "JWT/Auth", "Prisma"] },
+  { "label": "Tools", "items": ["Git", "Nx", "Vite", "Jest", "Playwright"] }
+]

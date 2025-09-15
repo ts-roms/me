@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Jane Doe",
+    "role": "Product Manager",
+    "company": "Acme Co.",
+    "rating": 5,
+    "feedback": "Rommel consistently delivered high‑quality features on time and communicated clearly throughout the project."
+  },
+  {
+    "name": "John Smith",
+    "role": "CTO",
+    "company": "Startup XYZ",
+    "rating": 5,
+    "feedback": "Great developer experience focus. Our frontend performance improved noticeably after his refactors."
+  },
+  {
+    "name": "Maria Garcia",
+    "role": "Founder",
+    "company": "Craft Studio",
+    "rating": 4,
+    "feedback": "Professional and thoughtful. Loved the attention to accessibility and details in UI interactions."
+  }
+]

@@ -1,4 +1,6 @@
 import './global.css';
+import Navbar from '@/components/layouts/navbar';
+import Footer from '@/components/layouts/footer';
 
 export const metadata = {
   title: 'Welcome to ',
@@ -7,12 +9,16 @@ export const metadata = {
 
 export default function RootLayout({
   children,
-}: {
+}: Readonly<{
   children: React.ReactNode;
-}) {
+}>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className="bg-pattern bg-repeat bg-fixed">
+        <Navbar />
+        {children}
+        <Footer />
+      </body>
     </html>
   );
 }
