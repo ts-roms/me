@@ -5,7 +5,7 @@
   "scripts": {
     "web:dev": "nx run web-app:dev --turbopack",
     "build": "nx run web-app:build",
-    "vercel-build": "npx nx build web-app"
+    "vercel-build": "mkdir -p ./bin && echo '#!/bin/sh\necho vercel-host' > ./bin/hostname && chmod +x ./bin/hostname && PATH=$(pwd)/bin:$PATH npx nx build web-app"
   },
   "private": true,
   "dependencies": {
